@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Cosas de edwin calsin quinto
 
 
 ### Crear un usuario en oracle
@@ -15,4 +15,10 @@ GRANT CONNECT TO edwin;
 
 grant all privileges to edwin;
 
+```
+
+
+### Tutorial git a full
+```markdown
+http://rogerdudler.github.io/git-guide/index.es.html
 ```
